@@ -43,6 +43,7 @@ footer img{
 }
 
 .content {
+  height: 1000px;
   min-height: 1000px;
   background: url(https://i.pinimg.com/564x/20/02/ad/2002ad9d3e936e6913dbe249cc68ac9a.jpg) no-repeat 50% 50%;
   background-color: black;
